@@ -16,5 +16,4 @@ This is a fork of [MartinSVK12/BTA-Minimap](https://github.com/MartinSVK12/BTA-M
 
 ## Credits
 
-- Original mod by [MartinSVK12](https://github.com/MartinSVK12)
-- Ukrainian translation by [PerepeliakDanylo](https://github.com/PerepeliakDanylo)
+- Source from [MartinSVK12](https://github.com/MartinSVK12)
